@@ -1,0 +1,39 @@
+    /* 1. Change the background color of the entire page.*/
+body {
+	background-color: lightpink;
+}
+
+.firstHeader {
+	text-align: center;
+	color: red;
+}
+
+h4 {
+	font-size: 25px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+}
+
+
+img {
+	height:200px;
+	width: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.favorite{
+	color: red;
+	text-align: center;
+	border-style:dotted;
+	border-color: purple;
+}
+
+h5 {
+	font-size: 25px;
+}
