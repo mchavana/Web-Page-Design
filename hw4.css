@@ -1,0 +1,33 @@
+body {
+	background-color: lightyellow;
+}
+
+.firstHeader {
+	text-align: center;
+	color: gray;
+    font-family: Courier;
+}
+
+.secondHeader {
+	text-align: center;
+	color: gray;
+	font-family:Courier;
+}
+
+div.gallery{
+	margin: auto;
+	display: block;
+	width: 200px;
+}
+
+.thirdHeader {
+	text-align: center;
+	color: gray;
+	font-family:Courier;
+}
+
+div.application{
+	margin: auto;
+	display: block;
+	width: 200px;
+}
