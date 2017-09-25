@@ -1,0 +1,30 @@
+body {
+	background-color: lightpink;
+}
+
+.firstHeader {
+	text-align: center;
+	color: gray;
+    font-family: Courier;
+}
+
+
+div.profile{
+	margin: auto;
+	display: block;
+	width: 400px;
+}
+
+.aboutMe {
+	text-align: center;
+	color: gray;
+    font-family: Courier;
+}
+
+
+
+.github {
+	text-align: center;
+	color: gray;
+    font-family: Courier;
+}
